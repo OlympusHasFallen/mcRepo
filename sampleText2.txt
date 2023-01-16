@@ -1,0 +1,2 @@
+This is a sampletext file
+Confirm the configs work well
