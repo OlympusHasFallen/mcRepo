@@ -1,2 +1,2 @@
 This is a sampletext file
-Confirm the configs work well
+Confirm the configs work well. New information has been added to the file and should reflect as modified data in sampletext3
